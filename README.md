@@ -42,9 +42,9 @@ Report Generation	FPDF
 Development Environment	Google Colab, VS Code
 📂 Dataset
 
-Dataset contains ~87,000 images of tomato leaves.
+Dataset contains ~10,000 images of tomato leaves.
 
-Covers 38 classes including healthy and multiple disease categories.
+Covers 10 classes including healthy and multiple disease categories.
 
 Images are organized into train / validation directories.
 
